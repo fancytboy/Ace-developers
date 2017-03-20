@@ -1,1 +1,14 @@
-# Ace-developers
+# Ace-developer
+KONGA COMPETITION README The project was written to fit in with the theme of the project given by the Konga Games of Code and was developed by the Ace Developers Team. The project was focused on making the shopping experience easy, fun and convenient for customers, some new systems were added, and they have to follow • Advanced Product Search: Users find it hard to get what they want, especially not really socializing users, for example, a clerk working in an enclosed office and has no idea of trending fashion and good clothes combinations, he/she finds it hard to get the best, we the Ace Developers Team saw this as a loophole and came up with an advanced search for the next Generation e-commerce experience. The advanced search features series of models in various categories, enabling the user to customize his/her own outfit and get results from the store based on the keywords generated during customization, therefore giving the user the best result he/she can get at a minimal time.
+• Chatbot to automate customer care service and user experience: A Chatbot is a computer program designed to simulate a conversation with human users over the Internet. The Chatbot interacts with the customer and helps in making user get the best products they need, and helps users to navigate around the site and makes qualified for the next Generation e-commerce experience. This reduces question asked by the user to the admin and improves the overall shopping experience of the customer also making it easy and fun to shop online. The chatbot is implemented on facebook messenger and has the ability to:
+• Place User orders
+• Get user location and personal details like Name, Email address, Gender, and so much more
+• Generate Reciepts for purchases made
+• Navigates around the site for the users
+• Provide Output based on user inputs and content in-store database.
+• Accept payment Options and redirect to 3rd party payment Portals
+• Initiate a conversation with the User.
+HOW TO USE: ChatBox: The chatbot runs on facebook messenger and can only be available to the public when approved by facebook which takes a minimum of 2 weeks which is beyond the time limit for this challenge. However additional developer can be added for testing purposes. Therefore Ace Developers created a facebook account for the simulation of this bot. To use: • Login to facebook using the email: acedevelopers14@gmail.com and password: ace12345 • Search for Fashion and Style Naija on facebook OR Simply click on Messenger button on the application • Click on Send Message • Watch the bot in action. (See Screen Shots for demonstration)
+Application: The admin page Uses a get Method to verify the id of the admin before redirecting to the main Login screen. the id the admin username. A predefined admin login has been set (http://webiste.com/admin/?id=ace_developers).
+PS: Due to the limited amount of time assigned to the teams for this challenge. The full potential of the ChatBot and Advanced search wasn’t reached, but further explanation and simulation can be provided when called upon. THANK YOU
+
